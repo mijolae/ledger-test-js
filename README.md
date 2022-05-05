@@ -25,3 +25,7 @@ This project was focused on creating a connection with a Ledger through a Terra 
    Test mode: false
    Terra Address: {TERRA_ADDRESS_HERE}
    ```
+
+## Further Developments
+
+To explore [signing with the Ledger](https://developers.ledger.com/docs/transport/tutorial-1-hid-ethereum/) or [viewing smart contract data](https://developers.ledger.com/docs/transport/tutorial-2-web-bluetooth/), view the Ledger documentation for guidance.
