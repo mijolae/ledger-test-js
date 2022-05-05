@@ -1,4 +1,4 @@
-# LedgerxTerrain Sample Project
+# LedgerxTerra Sample Project
 
 This project was focused on creating a connection with a Ledger through a Terra app. With `@ledgerhq/hw-transport-node-hid` and `@terra-money/ledger-terra-js` a connection is able to be established and access all features that will enable signing on a Ledger device for Terra applications.
 
